@@ -2,8 +2,6 @@
 ##  San Luis Potosí.
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Institution](https://img.shields.io/badge/Tecnológico%20de%20Monterrey-Situación%20Problema-0039A6.svg)](https://tec.mx/)
 
 ---
 
