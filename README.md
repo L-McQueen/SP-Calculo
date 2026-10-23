@@ -7,17 +7,6 @@
 
 ---
 
-## 👥 Autores y Equipo de Consultoría
-- **Juan Carlos Avila Miranda**
-- **Anthony Bruce Gomez Arjona**
-- **César Emiliano Montes García-A**
-
-*Materia:* Modelación Matemática con Cálculo Diferencial e Integral  
-*Institución:* Tecnológico de Monterrey  
-*Fecha:* Octubre de 2026  
-*Ubicación del Caso de Estudio:* San Luis Potosí, S.L.P., México (1,850 msnm)
-
----
 
 ## 📌 Descripción del Proyecto
 
