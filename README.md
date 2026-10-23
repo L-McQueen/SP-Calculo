@@ -1,5 +1,5 @@
 # Modelación Matemática del Consumo Energético en una Vivienda Inteligente
-## Aplicación de Cálculo Diferencial e Integral en San Luis Potosí, S.L.P.
+##  San Luis Potosí.
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
