@@ -1,0 +1,25 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entregables de texto, documentos Word y PDFs (excluidos del repo)
+*.pdf
+*.docx
+*.doc
+informe_tecnico*.md
+contexto/
+1985-2026/
+
+# Archivos temporales de Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.xls
+
+# Carpetas de configuración de agentes y editores
+.agents/
+.vscode/
+.idea/
+*.tmp
+*.log
+convertir_word_a_pdf.ps1
