@@ -114,8 +114,11 @@ Ajustando el termostato a **20.0 °C en invierno** (con ropa abrigada ligera de 
 
 ```text
 ├── Base de datos (consumo energético 2002 - 2022).xls # Base histórica oficial SENER
+├── 1985-2026/                           # 42 reportes meteorológicos oficiales CONAGUA/SMN
+├── contexto/                            # Objetivos, problemática y especificaciones
+├── informe_tecnico_entregables_1_y_2.md # Reporte técnico completo en Markdown
 ├── requirements.txt                     # Dependencias de Python requeridas
-├── .gitignore                           # Exclusión de entregables y temporales
+├── .gitignore                           # Exclusión de entregables (Word y PDF final)
 ├── README.md                            # Documentación técnica completa
 │
 ├── simulacion_modelo.py                 # Simulación completa (P, derivada, T(t), integrales)
