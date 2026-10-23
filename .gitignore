@@ -3,13 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Entregables de texto, documentos Word y PDFs (excluidos del repo)
-*.pdf
+# Entregables escolares finales (Word y PDF del reporte)
+*SITUACION*.pdf
 *.docx
 *.doc
-informe_tecnico*.md
-contexto/
-1985-2026/
 
 # Archivos temporales de Microsoft Office
 ~$*.docx
